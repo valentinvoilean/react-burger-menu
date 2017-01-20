@@ -13,6 +13,7 @@
     "url": "https://github.com/negomi/react-burger-menu/issues"
   },
   "dependencies": {
+    "eve": "~0.4.2",
     "radium": "^0.18.0",
     "snapsvg-cjs": "0.0.4"
   },
@@ -27,7 +28,6 @@
     "classnames": "^2.1.1",
     "eslint": "^3.0.0",
     "eslint-plugin-react": "^6.0.0",
-    "eve": "~0.4.2",
     "gulp": "^3.8.11",
     "gulp-git": "^1.8.0",
     "gulp-mocha": "^3.0.0",
