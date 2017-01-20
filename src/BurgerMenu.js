@@ -1,1 +1,1 @@
-export default './menus';
+export * from './menus';
